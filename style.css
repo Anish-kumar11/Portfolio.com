@@ -529,8 +529,8 @@ form textarea {
   }
 }
 .home-img {
-  width: 350PX; /* Set the width and height of the container to your desired size */
-  height: 350px;
+  width: 220PX; /* Set the width and height of the container to your desired size */
+  height: 220px;
   margin-left: 40PX;
   overflow: hidden; /* Clip the image within the container */
   border-radius: 50%; /* Make the container round */
